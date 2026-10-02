@@ -1,0 +1,14 @@
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\bin\Debug\net10.0\server.exe
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\bin\Debug\net10.0\server.deps.json
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\bin\Debug\net10.0\server.dll
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\bin\Debug\net10.0\server.pdb
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.dll
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.pdb
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\ref\server.dll
