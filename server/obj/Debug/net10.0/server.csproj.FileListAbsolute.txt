@@ -12,3 +12,4 @@ C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debu
 C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.pdb
 C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.genruntimeconfig.cache
 C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\ref\server.dll
+C:\Users\Пользователь\documents\Lab4_ISRPO_Shkurskii\server\obj\Debug\net10.0\server.sourcelink.json
